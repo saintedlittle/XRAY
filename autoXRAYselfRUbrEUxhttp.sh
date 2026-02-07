@@ -902,7 +902,7 @@ cat >> "$WEB_PATH/$path_subpage.html" <<EOF
     <button class="btn-action qr-btn" onclick="showQR('cAll')">QR</button>
 </div>
 
-<div><a style="color:white;margin:40px auto 20px;display:block;text-align:center;" href="https://github.com/xVRVx/autoXRAY">https://github.com/xVRVx/autoXRAY</a></div>
+<div><a style="color:white;margin:40px auto 20px;display:block;text-align:center;" href="https://github.com/saintedlittle/XRAY">Сделано с ❤️ от saintedlittle</a></div>
 
 <div id="qrModal" class="modal-overlay"><div class="modal-content"><div id="qrcode"></div><button class="close-modal-btn" onclick="closeModal()">Close</button></div></div>
 </body></html>
